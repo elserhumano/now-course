@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "platzi-now-bff",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/node"
+    }
+  ]
+}
